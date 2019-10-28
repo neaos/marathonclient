@@ -10,7 +10,7 @@
     <version>0.1.0</version>
     <name>marathon-client</name>
     <description>A Java API client for Mesosphere's Marathon.</description>
-    <url>https://github.com/neaos/marathonclient</url>
+    <url>https://github.com/neaos/OSSRH-52597</url>
     <parent>
         <groupId>org.sonatype.oss</groupId>
         <artifactId>oss-parent</artifactId>
