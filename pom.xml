@@ -19,7 +19,7 @@
 
     <properties>
         <feign.version>8.13.0</feign.version>
-        <jackson.version>2.6.3</jackson.version>
+        <jackson.version>2.9.10.3</jackson.version>
     </properties>
     <dependencies>
         <dependency>
